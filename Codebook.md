@@ -2,10 +2,15 @@ CODEBOOK
 
 
 subjectid
+
 activitylabel
+
 tbodyaccmeanx
+
 tbodyaccmeany
+
 tbodyaccmeanz
+
 tgravityaccmeanx
 tgravityaccmeany
 tgravityaccmeanz
